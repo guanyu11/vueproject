@@ -4,7 +4,8 @@ console.log(123)
 // Vue.prototype.$message = Message;
 import Vue from "vue"
 // import App from "./app.vue"
-import App from "./step.vue"
+// import App from "./step.vue"
+import App from "./switch.vue"
 Vue.prototype.$observer=new Vue();
 console.dir(Vue,"Vue");
 new Vue({
